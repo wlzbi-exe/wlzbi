@@ -23,7 +23,6 @@ dependencies = [
 Homepage = "https://pypi.org/project/wlzbi/"
 Telegram = "https://t.me/rejerks"
 Channel = "https://t.me/wlzbi"
-Developer = "Alen — Kerala"
 
 [tool.setuptools.packages.find]
 include = ["wlzbi*"]
