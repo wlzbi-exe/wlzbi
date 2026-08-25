@@ -1,5 +1,5 @@
 
-# WLZBI - Terminal Logo & Typing Library
+# WLZBI - Python Library
 
 <div align="center">
 
