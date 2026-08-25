@@ -1,5 +1,6 @@
 from .logo import logo
+from .typing import type
 
-__version__ = "1.0.0"
+__version__ = "1.1.0"
 
-__all__ = ["logo", "__version__"]
+__all__ = ["logo", "type", "__version__"]
