@@ -294,8 +294,7 @@ Have an idea for improvement? Open a feature request and let's discuss!
 ---
 
 👨‍💻 Developer
-
-Alen from Kerala, India
+from KL
 
 · Telegram: @rejerks
 · GitHub: wlzbi-exe
